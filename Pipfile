@@ -7,6 +7,9 @@ name = "pypi"
 langchain = "*"
 openai = "*"
 python-dotenv = "*"
+flask = "*"
+web3 = "*"
+arxiv = "*"
 
 [dev-packages]
 
